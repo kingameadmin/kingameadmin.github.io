@@ -645,7 +645,7 @@ pre code {
     max-width: 540px;
   }
   .row-reverse {
-    flex-direction: row;
+    flex-direction: column-reverse;
   }
 }
 
